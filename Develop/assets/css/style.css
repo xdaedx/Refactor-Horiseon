@@ -65,6 +65,7 @@ p {
     margin-left: 25px;
 }
 
+/* Main Content Section*/ 
 .content {
     width: 75%;
     display: inline-block;
@@ -125,6 +126,7 @@ p {
     font-size: 36px;
 }
 
+/* Side bar section */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -184,7 +186,7 @@ p {
     max-width: 150px;
 }
 
-
+/* Footer */
 .footer {
     padding: 30px;
     clear: both;
